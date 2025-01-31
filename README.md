@@ -4,7 +4,8 @@
 ## Dataset
 We constructed a wrist MRI database to test the effectiveness of the proposed wrist canal tissue segmentation model.
 Our wrist canal MRI data is sourced from the Radiology Department of Shanxi Provincial People's Hospital. 
-To protect patient privacy, we only provide. npy files that do not contain header files containing patient personal information
+To protect patient privacy, we only provide. npy files that do not contain header files containing patient personal information.
+The data is stored in the data folder, and the .zip file in the folder can be decompressed for model training
 
 ## Note
 Our research has been summarized and submitted to 《The Visual Computer》 as an article titled:"Automated Segmentation and Morphological Measurement of Carpal Tunnel Tissues using Edge-Guided Dual-Stream Network"
